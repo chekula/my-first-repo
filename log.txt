@@ -1,0 +1,11 @@
+commit a305ff26d59de7a73839f9435069390f7d6b292c
+Author: mchekula <mchekula@gmail.com>
+Date:   Tue Oct 31 15:58:32 2017 +0100
+
+    added two files
+
+commit b452c31e2e29974f8e0ba4c2e420b2b12cefc07b
+Author: mchekula <mchekula@gmail.com>
+Date:   Tue Oct 31 13:58:35 2017 +0100
+
+    added readme.txt
