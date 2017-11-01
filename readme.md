@@ -1,19 +1,17 @@
-# This is a large heading
+# Marina Chekulaeva
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in **Berlin**, the capital of Germany
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+## Books
+
+Three of my favorite books are:
+
+- *Master and Margaret* by Mikhail Bulgakov
+- *Cat's cradle* by Kurt Vonnegut
+- *I sing the body electric* by Ray Bradbury
 
 Here is `some code` in the middle of a sentence.
 
@@ -23,6 +21,4 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me is [via my website](https://www.chekulaevalab.org)
